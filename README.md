@@ -1,1 +1,1 @@
-# October-Snackable-Session
+# October Snackable Session
