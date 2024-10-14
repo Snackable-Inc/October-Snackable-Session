@@ -24,11 +24,11 @@ But that's still not _quite_ clear enough. So let's cut back on the technical mu
 
 When you have just a small number of people working on a project - let's say two or three people - collaboration, communication, and managing code is easy. You can just use email, chat, and share files and versions as you please. But as the number of people working on a project grows and the lines of code increases, the complexity of managing the project grows as well. This is where GitHub comes in.
 
-Some typical problems that arise will come from: multiple people making different contributions, tracking bugs, taking case of security vulnerabilities, planning changes and improvements, planning and delivering new features, and just the day-to-day aspects of managing your codebase.
+Some typical challenges that arise are: multiple people making different contributions, tracking bugs, taking care of security vulnerabilities, planning changes and improvements and delivering new features, and just the day-to-day of managing your codebase.
 
 The problem GitHub solves is this spiralling chaos that arises from a project as it grows in size and complexity, and the added workload you have when managing more and more people as your team grows too.
 
-In the simplest terms, GitHub is a platform where you can store your code, manage your development projects, and collaborate with yout teammates, and - as managers - keep track of what your team is doing.
+In the simplest terms, GitHub is a platform where you can store your code, manage your development projects, and collaborate with your teammates, and - as managers - keep track of what your team is doing.
 
 We're going to scrap the powerpoints for today, and instead just get hands on to show some of the basics of how you can do all this. Let's start off with some of the fundemental parts of GitHub.
 
